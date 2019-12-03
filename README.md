@@ -1,1 +1,1 @@
-"# Duos' Git Repository" 
+"# Duos Git Repository" 
